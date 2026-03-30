@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "discord": {
+      "command": "C:\\Users\\an201\\.bun\\bin\\bun.exe",
+      "args": ["./discord-channel.ts"]
+    }
+  }
+}
