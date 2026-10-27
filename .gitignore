@@ -1,3 +1,13 @@
 node_modules/
 .env
 bun.lockb
+.env.*
+!.env.example
+!env.example
+.DS_Store
+__pycache__/
+*.pyc
+venv/
+.venv/
+postgres_data/
+.vite/
